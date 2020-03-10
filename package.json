@@ -1,0 +1,13 @@
+{
+  "name": "com.nara.sample-package",
+  "version": "0.1.0",
+  "displayName": "Sample Package",
+  "description": "This is sample unity package created for testing purposes",
+  "type": "sample",
+  "unity": "2019.1",
+  "author": {
+    "name": "Egor Bakanov",
+    "email": "egorbakanov@gmail.com",
+    "url": "https://github.com/EgorBakanov"
+  }
+}

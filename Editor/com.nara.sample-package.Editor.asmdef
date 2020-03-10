@@ -1,0 +1,16 @@
+{
+    "name": "com.nara.sample-package.Editor",
+    "references": [
+        "GUID:b6ff2c9c27a54a543aabc63053a01b43"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

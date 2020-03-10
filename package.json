@@ -1,6 +1,6 @@
 {
   "name": "com.nara.sample-package",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "displayName": "Sample Package",
   "description": "This is sample unity package created for testing purposes",
   "type": "sample",
